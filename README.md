@@ -1,1 +1,1 @@
-![Lab2](https://github.com/bkhanal4351/math-series/pull/1)
+[Lab2](https://github.com/bkhanal4351/math-series/pull/1)
